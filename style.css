@@ -12,3 +12,18 @@ img {
     border: 2px solid black;
     box-shadow: 5px 5px 5px gray;
 }
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th {
+    background-color: #333;
+    color: white;
+    font-weight: bold;
+    border: 2px solid black;
+}
+
+td {
+    border: 2px solid black;
+}
